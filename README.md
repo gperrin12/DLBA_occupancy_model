@@ -6,4 +6,4 @@ my code for building the Detroit Land Bank Authority's (DLBA) occupancy model
 
 -fitting_randomTree_model_to_full_data_090416.R applies the model built in the previous program to the entire superset of all residential properties (non-apartment buildings) for the entire city of Detroit
 
-http://oi67.tinypic.com/whik2c.jpg
+https://cloud.githubusercontent.com/assets/9039296/18892644/4cfc24f2-84d8-11e6-9198-afa3a74c05d6.jpg
